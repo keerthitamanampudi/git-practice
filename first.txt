@@ -1,5 +1,5 @@
-This line is from remote
-This change is from Main branch
+This line is from remote(conflict)
+This change is from Main branch(conflict)
 This change is from feature branch (conflict)
 
 
